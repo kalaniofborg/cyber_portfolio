@@ -48,9 +48,3 @@ If you'd like to connect or collaborate, feel free to reach out:
 - **Email:** cyberkalani@gmail.com  
 - **LinkedIn:** [linkedin.com/in/hikalani](https://linkedin.com/in/hikalani)  
 - **GitHub:** [github.com/kalaniofborg](https://github.com/kalaniofborg)
-
-- ## License
-This project is open-source under the [MIT License](LICENSE).  
-Feel free to use this template to build your own portfolio.
-
-

@@ -1,0 +1,41 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / frontend build
+node_modules/
+dist/
+build/
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env / secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets.json
+credentials.json
+*.crt
+*.p12
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Static site generators / tooling
+.public/
+.sass-cache/
+.cache/
+
+# Misc
+coverage/
+*.bak
+*.swp
